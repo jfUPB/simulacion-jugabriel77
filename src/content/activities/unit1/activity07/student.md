@@ -9,6 +9,7 @@ Luego con ```noiseScale``` se le asigna el parametro de ruido a las variabes "x"
 Con la formula ```let a = TAU * n;``` se genera un angulo con el ruido
 Y para finalizar con las funciones seno y coseno se le da la direccion indicada a la particula
 
+[MIRA EL RESULTADO ACA](https://editor.p5js.org/jugabriel77/full/AjqWjeLZ8)
 #### El código:
 
 ```
@@ -65,3 +66,6 @@ function onScreen(v) {
   return v.x >= 0 && v.x <= width && v.y >= 0 && v.y <= height;
 }
 ```
+
+![image](https://github.com/user-attachments/assets/88f9f4ad-149a-4316-8eb2-b75b569c77d3)
+
