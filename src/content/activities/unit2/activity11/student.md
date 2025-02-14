@@ -1,7 +1,7 @@
 El codigo por si solo no genera los efectos de mandalas, existe la posibilidad de hacerlo pero eso depende mas de la interacción con el usuario. Al igual de la posibilidad de observar una percepcion 3D como si las particulas orbitaran una esfera
 
 [MIRA EL RESULTADO ACA](https://editor.p5js.org/jugabriel77/full/Xz_5VwNaL)
-
+[MIRA EL RESULTADO ACA](https://editor.p5js.org/jugabriel77/full/seE93LjLK) Version alterna solo para registro (o futuro uso)
 ```
 // Definir una matriz para almacenar los objetos Mover
 let movers = [];
