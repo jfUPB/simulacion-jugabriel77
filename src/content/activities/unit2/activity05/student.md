@@ -2,11 +2,13 @@
 let t = 0;  // Factor de interpolación que va de 0 a 1
 let direction = 1; // Controla la dirección de la interpolación (hacia adelante o hacia atrás)
 
-function setup() {
+function setup() 
+{
     createCanvas(200, 200); // Crea un lienzo de 200x200 píxeles
 }
 
-function draw() {
+function draw() 
+{
     background(200); // Establece un fondo gris claro
 
     // Definición de vectores para las flechas
@@ -35,7 +37,8 @@ function draw() {
     }
 }
 
-function drawArrow(base, vec, myColor) {
+function drawArrow(base, vec, myColor) 
+{
     push(); // Guarda el estado actual
     stroke(myColor); // Establece el color del trazo
     strokeWeight(3); // Establece el grosor del trazo
