@@ -115,6 +115,7 @@ class Snowflake {
 ```
 #### Fuego de colores
 [MIRA EL RESULTADO ACA](https://editor.p5js.org/jugabriel77/full/lsaf7i30S)
+
 ![image](https://github.com/user-attachments/assets/bdd46cb8-d4cf-4ac6-8298-cac4344e1844)
 ```
 let particleSystem;
