@@ -3,7 +3,7 @@
 
 ![image](https://github.com/user-attachments/assets/5f03ebdd-308a-4e69-afa6-31a62164e64f)
 
-```
+``` js
 let particles = [];
 let windSlider;
 
@@ -117,7 +117,8 @@ class Snowflake {
 [MIRA EL RESULTADO ACA](https://editor.p5js.org/jugabriel77/full/lsaf7i30S)
 
 ![image](https://github.com/user-attachments/assets/bdd46cb8-d4cf-4ac6-8298-cac4344e1844)
-```
+
+``` js
 let particleSystem;
 
 function setup() {
