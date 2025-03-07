@@ -4,7 +4,7 @@
 
 
 
-```
+``` js
 var planets = [];
 var numPlanets = 1;
 
