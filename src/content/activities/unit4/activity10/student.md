@@ -1,6 +1,6 @@
 #### Doble Pendulo (conectados en serie)
 
-[MIRA EL RESULTADO ACA](https://editor.p5js.org/jugabriel77/full/-f5CcQwoZ0)
+[MIRA EL RESULTADO ACA](https://editor.p5js.org/jugabriel77/full/PrH3w8IXI)
 
 
 
