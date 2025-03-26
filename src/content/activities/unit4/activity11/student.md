@@ -2,6 +2,8 @@
 
 [MIRA EL RESULTADO ACA](https://editor.p5js.org/jugabriel77/full/Ypr5MbtNz)
 
+[MIRA EL RESULTADO ACA](https://editor.p5js.org/jugabriel77/full/yFxU9lGw8) (Iteracion 2.0)
+
 
 ``` js
 // Array de objetos "Path", cada uno contiene un array de partículas
