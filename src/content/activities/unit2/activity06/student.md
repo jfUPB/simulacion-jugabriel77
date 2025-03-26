@@ -1,4 +1,4 @@
-```
+``` js
 
 // Variable 't' actúa como factor de interpolación entre vectores
 let t = 0;  
