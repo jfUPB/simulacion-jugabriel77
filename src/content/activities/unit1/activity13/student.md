@@ -1,0 +1,2 @@
+#### Autoevaluación con justificación y ejemplos concretos e Identificación de áreas de mejora.
+Si la evaluacion se enfoca en el dominacion de los conceptos seria un 5 ya que teorica o matematicamente los supe interpretar, manipular y los sabria poner en palabras, lo unico que me retrasa un poco es traducir el concepto a un lenguaje de programacion al que no estoy acostumbrado y no domino completamente
